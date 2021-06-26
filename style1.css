@@ -1,0 +1,30 @@
+.collapsibleNavId{
+    width: 300px;
+    margin: auto;
+}
+ul li a{
+    padding: 15px 15px;
+    margin: 10px 10px;
+}
+#log{
+    position: absolute;
+    right: 80px;
+    width: 430px;
+    padding: 10px;
+    margin: auto;
+
+}
+#sign{
+    position: absolute;
+    right: 60px;
+    width: 360px;
+    padding: 10px;
+    margin: auto;
+}
+#footer{
+    background-color: rgb(2, 2, 70);
+    color: white;
+}
+#footer ul li{
+    text-decoration: none;
+}
